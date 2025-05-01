@@ -26,10 +26,6 @@ Ce projet consiste en un **fine-tuning d'un modèle LLM Mistral-7B**. Les donné
 
 **JustCook.ai** est actuellement en phase de développement. Nous travaillons activement à l'amélioration du modèle et à l'ajout de nouvelles fonctionnalités pour offrir une expérience utilisateur optimale.
 
-## Comment Contribuer
-
-Nous accueillons avec plaisir les contributions de la communauté ! Si vous souhaitez participer au développement de **JustCook.ai**, n'hésitez pas à consulter notre guide de contribution et à ouvrir des issues ou des pull requests.
-
 ---
 
 Rejoignez-nous dans cette aventure culinaire et aidez-nous à rendre la cuisine accessible à tous ! 🍴👨‍🍳
